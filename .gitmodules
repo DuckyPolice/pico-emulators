@@ -1,0 +1,24 @@
+[submodule "PicoSystem_InfoNes"]
+	path = PicoSystem_InfoNes
+	url = https://github.com/fhoedemakers/PicoSystem_InfoNes
+[submodule "pico-infonesPlus"]
+	path = pico-infonesPlus
+	url = https://github.com/fhoedemakers/pico-infonesPlus
+[submodule "pico-rv32ima"]
+	path = pico-rv32ima
+	url = https://github.com/tvlad1234/pico-rv32ima
+[submodule "pico-emu2413"]
+	path = pico-emu2413
+	url = https://github.com/nyh-workshop/pico-emu2413
+[submodule "rp2040_z80_emulator"]
+	path = rp2040_z80_emulator
+	url = https://github.com/djbottrill/rp2040_z80_emulator
+[submodule "b-em"]
+	path = b-em
+	url = https://github.com/kilograham/b-em
+[submodule "rp2040-doom"]
+	path = rp2040-doom
+	url = https://github.com/kilograham/rp2040-doom
+[submodule "PicoBB"]
+	path = PicoBB
+	url = https://github.com/Memotech-Bill/PicoBB
