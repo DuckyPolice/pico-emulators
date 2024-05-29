@@ -22,3 +22,6 @@
 [submodule "PicoBB"]
 	path = PicoBB
 	url = https://github.com/Memotech-Bill/PicoBB
+[submodule "MEMU"]
+	path = MEMU
+	url = https://github.com/Memotech-Bill/MEMU
