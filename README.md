@@ -8,3 +8,6 @@ I have been very interested in fun things to run off of an rp2040 and i have col
 
 # NOTES:
 some of these are not emulators. it was just a general term i used and have no clue what else to call it so i just called it emulators. 
+if anybody has found one you think should be included here, feel free to add a pull request or open a ticket in the issues tab!
+
+My favorite entry is MEMU which can run a wide variety of games and stuff. its an emulator for the MEMOTECH MTX. if needed, i can provide help with building and such in the issues tab.
